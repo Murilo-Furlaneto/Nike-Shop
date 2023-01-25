@@ -1,7 +1,6 @@
 # nike_shop
 
-Este projeto foi desenvolvido com o intuito de por em prática os conhecimentos objtidos com o estudo sobre Flutter. 
-O projeto é um E-commerce da Nike, onde o usuário poderá escolher entre os produtos, navegar entre as opçoes, adicionar ao carrimnho os produtos de seu interesse e consequentemente excluir da lista.
+Este projeto foi desenvolvido com o intuito de por em prática os conhecimentos obtidos com o estudo sobre Flutter. O projeto é um E-commerce da Nike, onde o usuário poderá escolher entre os produtos, navegar entre as opções, adicionar ao carrinho os produtos de seu interesse e consequentemente excluir da lista.
 
 ## Getting Started
 
